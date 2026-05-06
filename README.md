@@ -33,8 +33,3 @@
 - **本地存储**：localStorage
 - **开发工具**：Trae
 
-## 快速开始
-
-1. 克隆仓库
-```bash
-git clone https://github.com/your-username/Mindful-Companion.git
